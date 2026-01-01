@@ -1,0 +1,104 @@
+[
+        {
+            "code": "SY",
+            "name": "سوريا"
+        },
+        {
+            "code": "AE",
+            "name": "الامارات"
+        },
+        {
+            "code": "JO",
+            "name": "الاردن"
+        },
+        {
+            "code": "BH",
+            "name": "البحرين"
+        },
+        {
+            "code": "DZ",
+            "name": "الجزائر"
+        },
+        {
+            "code": "SA",
+            "name": "السعودية"
+        },
+        {
+            "code": "SD",
+            "name": "السودان"
+        },
+        {
+            "code": "SO",
+            "name": "الصومال"
+        },
+        {
+            "code": "IQ",
+            "name": "العراق"
+        },
+        {
+            "code": "KW",
+            "name": "الكويت"
+        },
+        {
+            "code": "MA",
+            "name": "المغرب"
+        },
+        {
+            "code": "YE",
+            "name": "اليمن"
+        },
+        {
+            "code": "EG",
+            "name": "مصر"
+        },
+        {
+            "code": "LB",
+            "name": "لبنان"
+        },
+        {
+            "code": "LY",
+            "name": "ليبيا"
+        },
+        {
+            "code": "OM",
+            "name": "عمان"
+        },
+        {
+            "code": "PS",
+            "name": "فلسطين"
+        },
+        {
+            "code": "QA",
+            "name": "قطر"
+        },
+
+        {
+            "code": "SS",
+            "name": "جنوب السودان"
+        },
+        {
+            "code": "TN",
+            "name": "تونس"
+        },
+        {
+            "code": "TR",
+            "name": "تركيا"
+        },
+        {
+            "code": "US",
+            "name": "United States"
+        },
+
+        {
+            "code": "CN",
+            "name": "China"
+        },
+        {
+            "code": "DE",
+            "name": "Germany"
+        },
+        {
+            "code": "GB",
+            "name": "United Kingdom"
+        }
+    ]

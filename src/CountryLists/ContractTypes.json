@@ -1,0 +1,30 @@
+[
+    {        
+        "id":1,
+        "employementType":"موظف"
+    },
+    {        
+        "id":2,
+        "employementType":"عقد"
+    },
+    {        
+        "id":3,
+        "employementType":"عامل"
+    },
+    {        
+        "id":4,
+        "employementType":"متدرب"
+    },
+    {        
+        "id":5,
+        "employementType":"متطوع"
+    },
+    {        
+        "id":6,
+        "employementType":"استشاري"
+    },
+    {        
+        "id":7,
+        "employementType":"غير ذلك"
+    }
+]

@@ -1,0 +1,47 @@
+
+{
+  "currencies": [
+    {
+      "code": "USD",
+      "name": "دولار أمريكي",
+      "symbol": "$",
+      "decimal_places": 2,
+      "country": "United States"
+    },
+    {
+      "code": "EUR",
+      "name": "يورو",
+      "symbol": "€",
+      "decimal_places": 2,
+      "country": "European Union"
+    },
+    {
+      "code": "SAR",
+      "name": "ريال سعودي",
+      "symbol": "ر.س",
+      "decimal_places": 2,
+      "country": "Saudi Arabia"
+    }
+    ,
+    {
+      "code": "TRL",
+      "name": "ليرا تركية",
+      "symbol": "TL",
+      "decimal_places": 2,
+      "country": "Turkey"
+    },
+    {
+      "code": "GBP",
+      "name": "British Pound Sterling",
+      "symbol": "£",
+      "decimal_places": 2,
+      "country": "United Kingdom"
+    },{
+        "code":"SYP",
+        "name":"ليرة سورية",
+        "symbol":"ل.س",
+        "decimal_places":2,
+        "country":"Syria"
+    }
+  ]
+}
